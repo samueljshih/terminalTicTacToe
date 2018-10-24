@@ -1,1 +1,1 @@
-# terminalTicTacToe
+# Terminal Tic Tac Toe 
