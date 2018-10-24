@@ -1,0 +1,22 @@
+{
+  "name": "terminaltictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ticTacToe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samueljshih/terminalTicTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samueljshih/terminalTicTacToe/issues"
+  },
+  "homepage": "https://github.com/samueljshih/terminalTicTacToe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
